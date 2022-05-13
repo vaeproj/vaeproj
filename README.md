@@ -4,17 +4,16 @@ Just looking for interesting people to collaborate with to create some promising
 from executables to command line applications or websites.
 
 Languages:
-- C
-- Lua
-- Python
-- C#
 - C++
+- Python
+- Lua
+- Swift
+- Java
 
 ( Concatenated into a top to bottom table in order of fluency, the last 2 still most definately being a work in progress lol )
 
-Websites:
+Website:
 - vaepa.net/
-- artemis.xyz/
 
 Contact:
 - vaetrading_pa@outlook.com
