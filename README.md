@@ -16,5 +16,5 @@ Website:
 - vaepa.net/
 
 Contact:
-- vaetrading_pa@outlook.com
+- vaepa_proj@outlook.com
 
