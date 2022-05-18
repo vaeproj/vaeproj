@@ -8,7 +8,7 @@ Languages:
 - Python
 - Lua
 - Swift
-- Java
+- C#
 
 ( Concatenated into a top to bottom table in order of fluency, the last 2 still most definately being a work in progress lol )
 
