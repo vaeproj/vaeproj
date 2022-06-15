@@ -8,13 +8,13 @@ Languages:
 - Python
 - Lua
 - Swift
-- C#
+- Java
 
 ( Concatenated into a top to bottom table in order of fluency, the last 2 still most definately being a work in progress lol )
 
 Website:
-- vaepa.net/
+- wvadhy.dev
 
 Contact:
-- vaepa_proj@outlook.com
+- williamhalliday_pa@outlook.com
 
