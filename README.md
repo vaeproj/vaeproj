@@ -4,13 +4,14 @@ Just looking for interesting people to collaborate with to create some promising
 from executables to command line applications or websites.
 
 Languages:
+- C
 - C++
 - Python
 - Lua
 - Swift
 - Java
-
-( Concatenated into a top to bottom table in order of fluency, the last 2 still most definately being a work in progress lol )
+- Ruby
+- Rust
 
 Website:
 - wvadhy.dev
