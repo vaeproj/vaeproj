@@ -1,7 +1,4 @@
-Hey, I'm will, I'm a University student studying computer science.
-
-Just looking for interesting people to collaborate with to create some promising projects, honestly pretty much down to experiment with anything
-from executables to command line applications or websites.
+Hey, I'm will, I'm a University student studying computer science in Oxford.
 
 Languages:
 - C
